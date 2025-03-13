@@ -1,4 +1,4 @@
-# pwa-app
+# Sample pwa-app for presentation
 
 ## Run Locally
 
